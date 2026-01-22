@@ -1,1 +1,2 @@
-print("hi agafahaha")
+def add(x, y):
+    return x + y
