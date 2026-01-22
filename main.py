@@ -1,2 +1,1 @@
-print("hi agafahaha")
-exit
+print("hi agafahaha")t
