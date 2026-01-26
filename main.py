@@ -1,2 +1,1 @@
-def add(x, y):
-    return x + y
+print("Lesson 1 code contribution by Ali")
